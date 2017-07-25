@@ -1,0 +1,7 @@
+name: ServerPlugin
+main: com.baconeggninja.serverplugin.ServerPlugin
+version: 2.0
+commands:
+  waypoint:
+    description: Sends you to or sets a waypoint
+    usage: /waypoint <waypoint> OR /waypoint set(This will set your waypoint to your current location). Possible waypoints are Mesa, Shops, End, and anyone else's waypoint.
