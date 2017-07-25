@@ -2,7 +2,7 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
-	<classpathentry kind="lib" path="C:/Users/Lachlan Lamont/Desktop/Spigot 1.12 Workspace/Spigot/Spigot-API/target/spigot-api-1.12-R0.1-SNAPSHOT-shaded.jar" sourcepath="C:/Users/Lachlan Lamont/Desktop/Spigot Workspace 1.11/Spigot/Spigot-API/src">
+	<classpathentry kind="lib" path="spigot-api-1.12-R0.1-SNAPSHOT-shaded.jar">
 		<attributes>
 			<attribute name="javadoc_location" value="https://hub.spigotmc.org/javadocs/spigot/"/>
 		</attributes>
